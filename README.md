@@ -1,4 +1,4 @@
-# todo_app
+# Doodle Chat App
 
 A new Flutter project.
 
